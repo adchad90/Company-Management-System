@@ -126,5 +126,5 @@ The **Business Management System** is a desktop-based application designed to st
 
 ### Contact
 
-For any queries or feature requests, feel free to reach out at `your_email@example.com`. Contributions are always welcome!
+For any queries or feature requests, feel free to reach out at `iaditya.2016@gmail.com`. Contributions are always welcome!
 
